@@ -1,0 +1,1 @@
+To run project directly create a database named "project" in php myadmin an import the users.sql file.
